@@ -1,0 +1,38 @@
+div.wrapper {
+	float: left;
+	width: 100%;
+}
+
+div#outwrapper {
+	margin-left: 5px;
+	padding-top: 10px;
+	width: 1200px;
+	float: left;
+}
+
+p#customTitle {
+	font: small-caps bold 20px Arial;
+	padding: 0px;
+	padding-bottom: 5px;
+	margin: 0px;
+	color: #00008B;
+}
+
+p#customTip {
+	font: bold 12px Arial;
+	padding: 2px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	padding-top: 5px;
+	border-left: 3px solid #FF0000;
+}
+
+hr {
+	height: 1px;
+	width: 100%;
+	margin: 0px;
+	border: none;
+	border-top: 1px dashed #269ABC;
+	float: left;
+	clear:both;
+}
