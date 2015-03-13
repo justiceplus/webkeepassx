@@ -24,4 +24,3 @@ Known bug:
 Apologize, my thoughtless, current version only support 1 layer nesting, like:
 FatherGroup
    -SubGroup01
-   -SubGroup02
